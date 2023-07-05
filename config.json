@@ -2,8 +2,8 @@
     "id": "YoloBitRoboconExtension",
     "extensionDisplay": {
         "name": "gui.externalExtension.YoloBitRoboconExtension.name",
-        "iconURL": "/images/Rover01.jpg",
-        "insetIconURL": "/images/Rover01.jpg",
+        "iconURL": "/images/Robocon01.jpg",
+        "insetIconURL": "/images/Robocon01.jpg",
         "description": "gui.externalExtension.YoloBitRoboconExtension.description"
     },
     "translate": {
@@ -13,7 +13,7 @@
 
         },
         "en": {
-            "gui.externalExtension.YoloBitRoboconExtension.name": "Rover extension",
+            "gui.externalExtension.YoloBitRoboconExtension.name": "Robocon extension",
             "gui.externalExtension.YoloBitRoboconExtension.description": "Template extension description"
         }
 }
