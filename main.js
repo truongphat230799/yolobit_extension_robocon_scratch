@@ -35,7 +35,7 @@ class Scratch3YoloBitRobocon {
                         LAMBDA: {
                             type: Scratch.ArgumentType.BOOLEAN
                         },
-                        SPEED: {
+                        TIME: {
                             type: Scratch.ArgumentType.NUMBER,
                             defaultValue: 5
                         }
@@ -57,11 +57,11 @@ class Scratch3YoloBitRobocon {
                     arguments: {
                         SPEED: {
                             type: Scratch.ArgumentType.NUMBER,
-                            defaultValue: 50
+                            defaultValue: 30
                         },
                         TIME_DELAY: {
                             type: Scratch.ArgumentType.NUMBER,
-                            defaultValue: 1
+                            defaultValue: 5
                         }
                     },
                     blockType: Scratch.BlockType.COMMAND
@@ -81,7 +81,7 @@ class Scratch3YoloBitRobocon {
                     arguments: {
                         SPEED_LEFT: {
                             type: Scratch.ArgumentType.NUMBER,
-                            defaultValue: 50
+                            defaultValue: 30
                         },
                         SPEED_RIGHT: {
                             type: Scratch.ArgumentType.NUMBER,
